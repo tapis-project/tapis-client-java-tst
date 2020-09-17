@@ -16,7 +16,7 @@
     </parent>
 
     <artifactId>tapis-client-java-tst</artifactId>
-    <version>1.11.1-SNAPSHOT</version>
+    <version>1.11.1</version>
 
     <name>Tapis Client</name>
     <description>Top level java client</description>
@@ -25,7 +25,7 @@
     <scm>
         <connection>scm:git:git@github.com:tapis-project/tapis-client-java-tst.git</connection>
         <url>https://github.com/tapis-project/tapis-client-java-tst</url>
-        <tag>HEAD</tag>
+        <tag>tapis-client-java-tst-1.11.1</tag>
     </scm>
 
     <!-- AVOID CIRCULAR DEPENDENCY WITH TAPIS-SHARED-JAVA -->
