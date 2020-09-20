@@ -3,7 +3,7 @@
   <parent>
     <groupId>edu.utexas.tacc.tapis</groupId>
     <artifactId>tapis-client-java-tst</artifactId>
-    <version>1.11.4-SNAPSHOT</version>
+    <version>1.11.4</version>
   </parent>
 
   <artifactId>systems-client-tst</artifactId>
